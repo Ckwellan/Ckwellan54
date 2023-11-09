@@ -1,0 +1,26 @@
+{
+  "name": "Max George",
+  "age": 38,
+  "address": {
+    "street": "Gesa Way",
+    "city": "Nocowji",
+    "state": "PA",
+    "zip": "72431"
+  },
+  "contact": {
+    "phone": "(242) 988-2240",
+    "servicePhone": "800235591"
+  },
+  "birthday": "1973-02-09T04:18:56.949Z",
+  "ip": "105.50.69.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Tazivub nopeg ikiwofo miivo pabguwor pevoem jow zic ifojuju halni soicsa imo il juj lun neorjif. Pi wa mocef rowis giup ji an hahid nukizfaj juvluka usnojda ago. Rit cowcaok rum awehuz bigu hemkigtec seow ujlu liompo seaje di fetacudi ascuwmo biud ta ibe worzed kaf. Oruure fi casujow te uw lo mafo acgaf zahfuc ro com tuodudom bi no fa.",
+    "bio": "Dev huv ce ino adku rimowo muwakfo ferpab zawazno tisnodhan buigu biiccen udrapor cutpehi zupem. Zij cilu coslefzif okesolav kol jun rafbanid siuli mikaha umu bun makpalku. Li rimentic unnitap vo ucwis di siaj rov hi igaij ogo muvditdup."
+  },
+  "apiKey": "9723a856a827d77052c1b9b084c125eddc4deae3990b4405b371a0021e8a168d",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
