@@ -1,0 +1,26 @@
+{
+  "name": "Allen Chavez",
+  "age": 49,
+  "address": {
+    "street": "Tadsuk Path",
+    "city": "Owauwozud",
+    "state": "VA",
+    "zip": "59247"
+  },
+  "contact": {
+    "phone": "(512) 290-2389",
+    "servicePhone": "800971259"
+  },
+  "birthday": "2005-06-16T09:14:12.115Z",
+  "ip": "228.142.196.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Lihir me rugizuz cipiova pi nagana feklih afgibe jivem wubvo gomge mi eca ovepilo an tuw zabecoel juf. Duhenkof uhujecdi wezof buibu je pu kutiasa hehun ohic upewopoj sotdutvir dutnidtaj imnoic kivaghot. Ivsodime ge bewa capzula muitare eb jucfur suj gifdone cav jaro dape wa ec wenolji ahepa efaripo.",
+    "bio": "Fanug selabve awiwufu juw atju lujkilaf az neg co cuc naob eg ujbe zopap. Cetufoh jadsim je ri zuracgod haz odhob ca go tokugcit nu ju we zitiso vejpu. Merofiku su tokezor ilsa zepikno mo lew zumzifow fizezde azodevari det erpajed coci tohomu nibi lazdel odu. Pofo zitipheh ivletel zi tikenip ra vilakug abibehu vejgedu mul ji vo. Nolhij buekijej gedkago ta ce dobdo regciz dejiswe oseoh sagsim goumezu pu kin bigurni. Ikovo sib senepaku fubagvoz fupipufi ido pij notzot hivag zabzo vilagaeji lebef kej. Hafsov mickubza gej soogilut sudinuhu pul mernurgag ved ni jezi wus nucnonpe zemiz ejenobteb lepog soznu."
+  },
+  "apiKey": "ba7559b7a3dfd163d5c3b96fabfe1ab693f03421ed51317bac00a3c9090f03fe",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
