@@ -1,0 +1,26 @@
+{
+  "name": "Sara Lowe",
+  "age": 62,
+  "address": {
+    "street": "Vuowa Turnpike",
+    "city": "Iftuihi",
+    "state": "OR",
+    "zip": "63657"
+  },
+  "contact": {
+    "phone": "(284) 662-3551",
+    "servicePhone": "800731262"
+  },
+  "birthday": "1994-03-31T01:31:05.936Z",
+  "ip": "181.33.140.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Hek lu morekfen zu on zunahaf tomuhi ucu wunuv gime moraz infucko ezwa kokhelju pozi. Niumki irribhe nozsez cogehaj ri cutenlu zemuc ven uvaadike mo idosmi nocul cupatru ge bim bivih pug. Kufvan je wep uruje si tupseam kucepid reozu ez palzibvo isnogwil va ki cofi pilhirzi cewu.",
+    "bio": "Figaifo ogorodlol dik jazo lutkece huh ranka lote gamke aj wezok za dut vo gasipun vuuvu. Nuj kaujge zubvu jeimiivi gativ piw jecu wijdevmaz bakec mo dajbocac rot fige udino. Uha wo huv to otvilpo rinol jehi beluc gibvernod wi red acatofiz buco jo ipomiru wodwovwuv batu."
+  },
+  "apiKey": "ee0393b57b57e387c8aa03c9ea2996103eb5ad4bfb5b8b6a234f6c4953321030",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
