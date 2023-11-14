@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Farmer",
+  "age": 46,
+  "address": {
+    "street": "Nakhon Park",
+    "city": "Gigcitob",
+    "state": "ND",
+    "zip": "75932"
+  },
+  "contact": {
+    "phone": "(831) 438-3347",
+    "servicePhone": "800576972"
+  },
+  "birthday": "1989-11-20T22:51:40.531Z",
+  "ip": "32.128.90.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Muneco lazerzim bi cug so mahlep tonsob rorovim utok cetfa hacisbic voevev ujtobi. Mumoasa owo so calsif taret veko ge no si pam zopge eczij pofi ticvik su gafho mo icsej. Bior hetamu verkobha ha basgeuru gagni rorlan ragtuhgut de vefejzi jor daj zew am co.",
+    "bio": "Juc jotmuj perec ras jut na bocre jijsul ufovace hu vuole leh ac. Zom tidivro cutfujiv geenka feifkuz toduh ezfur caralpac so pestazi gimce patouzo. Pij lan hi hiadju dipa ah ivput rud lip nezce icugucej cumap itmaji mojuso. Melwel wilol gipis ka ifvaz gagpog lup ojkul oso to uruw cepijma."
+  },
+  "apiKey": "f0ecb602f35e700b079463ab88ac0c389c1787de3cf9a7bb74a0c97c529ee7c9",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
