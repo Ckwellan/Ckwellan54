@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Lambert",
+  "age": 52,
+  "address": {
+    "street": "Huvek Center",
+    "city": "Vozruleg",
+    "state": "TX",
+    "zip": "82945"
+  },
+  "contact": {
+    "phone": "(606) 937-1736",
+    "servicePhone": "800716139"
+  },
+  "birthday": "1999-08-01T10:46:48.207Z",
+  "ip": "2.63.163.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibici cuvej gas jalhesar jerwilazo ci ren epheclo catehiwot lik ajo zov kadetzik uv reduvcu. Vaha vimek pebi mu bodi urkuvrir utiecwe buv in dommic kol jepesto ju fo ihi viabi. Pez zo tawogeg kutsozo godeco du ritnohew itwusge fufmel etudetom meicva wu tiruar roku. Noarka hig dihibe kilaug riesudaj pa ha oronopmad fe zif gosif ascamigi dahlise pidot cofiplo canwo caf ite.",
+    "bio": "Se ciputi ro hauro wod ef sasmahsin wofad zasjine logugu somrovi roofwa lu nip. Idmiver mu cuvekna aju big laonla sotemop nowtas puwdev fowe meojfef eni ebonehun gu kit ac ri. Ebtukfir gusa obujecu su ginew gobasod fej dusluuf edful bawu cal sunezza kowwicjev ju menmen nok kongidot."
+  },
+  "apiKey": "b64fc7afe188fe6003f8775ae8dc27e30ef674601415aaffa45ce819f6222ebc",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
