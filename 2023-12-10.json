@@ -1,0 +1,26 @@
+{
+  "name": "Marian Dennis",
+  "age": 52,
+  "address": {
+    "street": "Tekwi Trail",
+    "city": "Kispivnu",
+    "state": "SC",
+    "zip": "19921"
+  },
+  "contact": {
+    "phone": "(239) 632-9829",
+    "servicePhone": "800563891"
+  },
+  "birthday": "1986-09-17T21:50:17.023Z",
+  "ip": "100.11.161.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekafoire gos liglihwa ocoju pep egikut ohti lu le arnaca lez muizhu wuzeki ufu mecoko iseme. Lu nap jo okopenizu zot rekud upgavam esehefa wo seejoko mib iz tir kof irojat uhozac mew puosbac. Cughe ham focfe lujzeguv puvo kon nebbokpad mu zofadlal eswaew umi bito ekpisvun zolzibad fearefup sengot nab.",
+    "bio": "Lateripen ag bagubfa mu him wafkajdij adto dugelba wuv pe giri na ra ezcoedu. Bat iheuz tecruuza par tubefib ar keahanet me eboeke ra fuzfizega jes va didak aj dicoeh. Givme jehheof sav jot jeba odupu savagmig lun waadtaj vakcabi rojzouca jojeze lut warudip ulevi sakoke."
+  },
+  "apiKey": "9fd1f833d30e6e124a32d5e584f15516759bd6c1c201ded896cd13cca2039fcd",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
