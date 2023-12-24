@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Daniel",
+  "age": 53,
+  "address": {
+    "street": "Beluk Lane",
+    "city": "Iharabcu",
+    "state": "IL",
+    "zip": "59639"
+  },
+  "contact": {
+    "phone": "(731) 608-5230",
+    "servicePhone": "800868392"
+  },
+  "birthday": "1977-03-12T03:25:46.532Z",
+  "ip": "19.83.74.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahueblic po gewewlu wo girov fep jucag onhed zuc ned hukunses do pof icebeiw bacfarnis etfatsi. Ez ninu noszahim ne vaazave kad ut do miw he kackaese rog bupramek hesu wauci ulpuluge ro pop. Cosagsa luzo fazob utoheda ji igkulja vup sudkiabo maz vo zudma zocecewi.",
+    "bio": "Ucmutu uk eg fof akiiswuj ve educafo eto kasvam kencib iwzefran ida lansa. Gotbov ansikjal gorkewor madroju peuksu anitisbul men ersucef wu cog fad naihufal kul von os. Hanok ela retavho pewidozid bobewot ko mev wuw ah ihnate co hehour fiemasud pid uhimajil."
+  },
+  "apiKey": "47a2dde7c9d7fba7d44682b6f9e6816259ec1b896760b14171f5ee978e8cb8ee",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
