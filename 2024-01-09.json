@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Park",
+  "age": 56,
+  "address": {
+    "street": "Kuil Place",
+    "city": "Cefvizar",
+    "state": "TX",
+    "zip": "55307"
+  },
+  "contact": {
+    "phone": "(433) 708-4863",
+    "servicePhone": "800376658"
+  },
+  "birthday": "1962-04-28T13:30:03.168Z",
+  "ip": "106.160.231.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Melwo wuvwitpij vikamu hezfewke ke nudase bud namis ab muitume ji rujmiv cenehok mewja cenruiru. Jo udipolub mez siwleb tuwano mi hu te vuzmiroz pubeves uci tujupa se ma ubitirva. Koh ojo to pavpe ubehe epiuho caz civi lawidzu pop zigeh ducku cejhon lobpav. Anega ze alaewa suhulwot durveku nivuof ojtilpu fit beriwfu rohe rin baritca. Bopvowumi citciro paila sugfoduke rafe jeefju mogef coege nobnetuc inu zu bi ko uw. Tilehuel pidhufte poc kos bikce zumzuj riplijure wotar kuikhad hawubhec zevok dufum er.",
+    "bio": "Hevpih hiwhecmo dicze uzcut fonetjol fitas kehmevepa socu icifaj ostev rutec zavjik tihub. Dirjazon gucabojo ahe ofa uvirab rujomwuk sog wijsi vuj napzizam kezuv owamoed jillolweh tot sotes faowike jogiwgew ekewawo. Wu bok lev bibnovas cig datorkot govawbi ih likwu zaj le vajrit. Cubu luzi dugi rafwomdo en mo toluwha upawin bika reci vib jiskegek cinuz wurmaket utfucum eb. Ta jomdehed wu jebhekle ha ujuwewzi veb vekbiw ivuhaz tawowe rakwi suwmub olamudwa. Uhci heverfes fas jeikte kizagep sag ulaiw nir atve re sa nezam. Ved veloboowa ow ofukudepa cimohug napaot pi waffi tu cataw rodgilo wu cif umimuj surdihwu izafog zetrac."
+  },
+  "apiKey": "fe85413efaa64403f2c741d1330640c9b47947f71dde584d0a0c7ee3cadd2c2f",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
