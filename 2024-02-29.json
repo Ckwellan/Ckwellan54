@@ -1,0 +1,26 @@
+{
+  "name": "Grace Page",
+  "age": 57,
+  "address": {
+    "street": "Boceh Road",
+    "city": "Keudgim",
+    "state": "WI",
+    "zip": "77948"
+  },
+  "contact": {
+    "phone": "(460) 219-4630",
+    "servicePhone": "800974494"
+  },
+  "birthday": "2005-01-06T23:51:36.662Z",
+  "ip": "79.160.179.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Vanrah pub pudgapu bagev fushibvo ligwuife fifse zujaf basejwiz icu vi mez. Kuwcis cencu sekerneb itedok neh igedabhub bazputije tan ni dojijcam zadar ciumvu wopokut ruk wi dougtaz. Cisidog patzube muwab woflo ajo om av jisacpo kilu ow zeh azeehavig os.",
+    "bio": "Unreli me bub kiuji voh saera anso cejeg infe mumi retu tub nuzvuur ib wudok fi mominsi fofi. Miefto vicojac ja jabac zonref won ho sef uvoasjep camefcik oso jedmu ajonod une isug. Ta zajuki bof ze kik kusguwuw fug uhison lo hemumewi ce udwes fumralo mopu jafiflap. Gohhimi lioma fik ome roc wopa ju gu one wamippat covvir ortudab kimep op nogad jiimu."
+  },
+  "apiKey": "c23c6f0583d1cd2d99f4516ea81fd3f930dd48b7484286136441b7ad852b8e52",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
