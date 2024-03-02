@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Jacobs",
+  "age": 52,
+  "address": {
+    "street": "Wacot Highway",
+    "city": "Vivvibcu",
+    "state": "WI",
+    "zip": "12987"
+  },
+  "contact": {
+    "phone": "(802) 729-4007",
+    "servicePhone": "800784385"
+  },
+  "birthday": "2005-02-13T18:27:36.189Z",
+  "ip": "28.119.240.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Pefeani azizevomu ilca estawod linpuval fek veojevun jilzuzdi jela li pi tuwlis zoge dun irunipiz ha resko. Kus em ocda wa uvarubij amowojaj cef jehap to rarvi cekba bikicvu ramuwzo se aredu. Za nummu tidzug ewo ub su wugomir fuap ofmoige feg unusu sihpepe munbizapo.",
+    "bio": "Paso fimfe tevoze akalor fe pudpaduj kesoffav gobmi reuziir mook jof waznuf retowzo. Lacorsez cifgizidi ubo zarasih kofu izu ke nuzra ho tuzcag omidioz ari tagazo wa taw pipo kopeke hihsuznaz. Genbuk ka sinu ki iwame enicite nucomsep bilcom fiw ruh uli obuf watzujud inpub pen hisgezpuz."
+  },
+  "apiKey": "442105d7bd8243602285e2aa003c68f226cd6ab83d701e5b92daca27dc21c1ff",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
