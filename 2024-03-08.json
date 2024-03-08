@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Parsons",
+  "age": 59,
+  "address": {
+    "street": "Lowa Glen",
+    "city": "Wegvakuk",
+    "state": "NC",
+    "zip": "54812"
+  },
+  "contact": {
+    "phone": "(526) 613-1766",
+    "servicePhone": "800642931"
+  },
+  "birthday": "1977-04-15T03:45:19.723Z",
+  "ip": "40.131.213.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Ukun ewfeul usmiuv ibfa aj gulrigu gi dulusealo zivebzo lub awa ot esu ob sosi igetuhehe tace. So zenwoc uge zeguc wiwrovcis negzuw wa tuiju nucuolu ik jewvu siij. Rus jahsekos duhike nu nezussi womitus vewuv su hirha juhpo pundanbu sucaot.",
+    "bio": "Nojuz tuzvebi webrip emdi kewzut netco dodaz ikumepzi fo dazkujoj vi rinesri. Dilu fa uti riloj wer owawud go sa no sa lopatho zoko gedmaf wiehzo oseor. Otwes ipudafvo zegoepe zijani fodiphip mitab uhzu nur nortovec seskez gogup vu. Makebzu ugsu juseraej logvori vin nofoseb dibewa ibfog inte cip niji kubolacih eciha."
+  },
+  "apiKey": "c33ee68e15ff0e8a8d2f1b3d9ed07d4d4b2392cac5648b3543c2384ce809dd98",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
