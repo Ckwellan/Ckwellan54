@@ -1,0 +1,26 @@
+{
+  "name": "Georgia Moss",
+  "age": 42,
+  "address": {
+    "street": "Pafav Pass",
+    "city": "Ajimoju",
+    "state": "IN",
+    "zip": "55141"
+  },
+  "contact": {
+    "phone": "(933) 453-8193",
+    "servicePhone": "800543469"
+  },
+  "birthday": "1986-08-29T14:13:39.010Z",
+  "ip": "173.209.242.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Ku wufer zivad oz ilejegke cob ja coevtoc kamitas hudbug rof dijo memakigu kikjo virala. Bafo gezo gomutos uc vav co petuwel acoda kopfa dedcev kero icif vup ikle. Wik atme citmolba naro ruwejfot da cijugi op wokowgam seecnu halhevah ago. Zocgo ulovsa nagtar evsok mak lu per zuj lutsumaj cez eh onsu.",
+    "bio": "Osehu raarzut sof woh fesu wekzizwij bur dun zaesivaz fow hatgu kisrin web igefef ah. Fijji reszan li zogoz kozjutdu hifevcac sepici juthinluh weuj kipva gam re kibkagzel ra da ojeeti jenzek vepfac. Butcive cupmuz odwuto niw seponluc teotvi imo huherila avifu neh le cen uleic. Izmacta eta ve omeij ifpe kigpe giaf depo jez di nemiw taz. Le titocaz fofrici puzirga ubeugufe agasiur wip elusuete nuuso wow alujuun miw fib senodpet ala me vocsa. Diowezoc kej buhjiktuc ew ugruve iboiniz zacoso kawaju dev bet joda et."
+  },
+  "apiKey": "f5c758aa4637ee4fe93d393d54799d2c35d0001c9094e6ed569d44c51ed5fac1",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
