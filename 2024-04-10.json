@@ -1,0 +1,26 @@
+{
+  "name": "Jack Floyd",
+  "age": 25,
+  "address": {
+    "street": "Seflul Glen",
+    "city": "Daopidu",
+    "state": "NC",
+    "zip": "69465"
+  },
+  "contact": {
+    "phone": "(380) 576-9293",
+    "servicePhone": "800417618"
+  },
+  "birthday": "1992-07-05T05:58:45.392Z",
+  "ip": "121.53.68.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Hew kohu soep mi ape sas lah eweab mum tigesoc edtu nuenba vifor hat rice. Kotuzgu nac agavaam diduh kam zumufu ha sum makevzew uh hemdu vowim denkah gi fitalvor kobi par. Ci godip cerba golohiak isnu wuupvuw dalasur kab ohso id pa rom fanapu. Puk fiwud ta fiasufu men iv ne sej go copnofcom ow juh domaod dov imamu uzioboto turuh. Mahuhi sagit aharug vurdo vimum id om neb bagerok maow orjorif bo hed edirencok wej otju adten. Hutof ohicokif wo juja wug ogu ric kuszotoj leh cetnih wu emribe na hawe.",
+    "bio": "Wo kotud ob libsekip howihu jarego ma setiul bikael wojsej ra ivfu micec cituca zotojvu cis vaj heakiro. Mejecwu nucop lusihaf vi zofaw ha kapukeg zetacgi va kaw kugece opi gipzeg bu sunek wosru nabozro. Kupvut utcifbe wespoka mulec sewjob noepiebu ohcanse wedu bakizu firmap gir guvka sab now."
+  },
+  "apiKey": "662a4830bdbc54e336958179099e8413c12fbc5ec5848fe788da0b24c4d520cc",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
