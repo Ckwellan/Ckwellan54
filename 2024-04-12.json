@@ -1,0 +1,26 @@
+{
+  "name": "Lena Robinson",
+  "age": 60,
+  "address": {
+    "street": "Nihjir Loop",
+    "city": "Zahivdi",
+    "state": "NY",
+    "zip": "01732"
+  },
+  "contact": {
+    "phone": "(719) 708-3953",
+    "servicePhone": "800957474"
+  },
+  "birthday": "1967-01-01T05:54:40.601Z",
+  "ip": "252.62.49.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Cafut an ejenined icva si awefa moh bic idsepu ga ralil taz vi. Pob niwomel nikbazu wuriz hi iftojju jin bakriul inisove gutawet ha sod wobkab. Bo kiv wokpaw lanubog vad vi daza seopa de av esigunsah na. Ahfu cetkon loceve padrutec opeag kilobjud tizap depop te ovsabsur sece fa zaugfu romse.",
+    "bio": "Ke ofeopne rihminnas upcig be venneclo uc dur wa avigiano eminibog bunolre fu ushog. Pir ha ni kifib ro tucpa hukibjir asado dazu vibov samuf mudat uc jejca ruzpesni. Teor viehniz teras pug ananesi hevva pep horu omzoj wirus ari lekawpin cabi sauwzi."
+  },
+  "apiKey": "89e4d00d461a666c0bd42a976da776994a34eecfda685f2f17f34f7e2cbf371d",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
