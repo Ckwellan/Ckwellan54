@@ -1,0 +1,26 @@
+{
+  "name": "Miguel May",
+  "age": 32,
+  "address": {
+    "street": "Ecte Road",
+    "city": "Owuroge",
+    "state": "NY",
+    "zip": "90881"
+  },
+  "contact": {
+    "phone": "(944) 915-6400",
+    "servicePhone": "800947768"
+  },
+  "birthday": "1986-11-22T03:51:17.688Z",
+  "ip": "159.47.145.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Wujujoz sabima hu haze heh wuv ha uwpih wo sefudowad wiadujam lo mud ewpak zev ada cisukfuz fipejte. Bufje ovijovad sellohge be capeczuf notpu pa heczupe wof hottu onopil to visaduasa uvijaf. Siazun wezukem ajmotu vurho adlehpa redone ibvumka cu juwat idoez tip ci dizrigwa tas fuz sul. Goznurmec fajbe majova uniisodo ro te feci uf ziso punizrug uzauwutiv tahav fipu. Vur dasgeki pembo toz hah sa uzimujoj aga how tegadirar coogo bezima ca dafnuh ecle ku.",
+    "bio": "Ecuhuwi rocco hi laru saesil fiutume pawjuz ralcutlun polvamu jahgafil foemios cadduv lasedfog mivinav sefjog ejo. Dit narezvav gi zamgo ejbogvok vopda rut muwja wapa bunezu de daitu emajo pigi. Obafunup nec zih zohfop sogzecnas ihhig ilke hehama noz are turafazu moidahob zo vusarvev restaflo tojso nadulbum."
+  },
+  "apiKey": "e78d5cbf6d44d11008dd72ce10c2374eec2f9e5afb2ebcb400480cee6915a4b0",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
