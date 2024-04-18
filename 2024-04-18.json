@@ -1,0 +1,26 @@
+{
+  "name": "Chester White",
+  "age": 29,
+  "address": {
+    "street": "Zuzri Extension",
+    "city": "Hagarop",
+    "state": "SD",
+    "zip": "74719"
+  },
+  "contact": {
+    "phone": "(933) 200-6485",
+    "servicePhone": "800876365"
+  },
+  "birthday": "1988-06-23T12:02:30.076Z",
+  "ip": "71.27.147.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Vicrevma dactegip aguho boj ehocohib efilik hibpojbuj oru gogha icezutce wid bo pu ji baveveubo jetoja. Eg ci kumafihaw boje wuama edipaf pomunum odaevosaf jih noheb cap zu wa mosugrez. Nehmepi ziliim wa meba von sapwu dol valpuc fuuzto fonenov epuuggen pose edbu uvaowa rololujo lusebif kamem av.",
+    "bio": "Utewomwiv we hacaav onu le fuug okvoco abma wupatah ehuimige emaojo inefu rufhip ocolito icati zauwebi. Sagi wahic alsompac ceko halzul ne gin ubo pob bujume sivpu umvi fivi. Lih hokpa jita felevni zamri ikebi diazo tob ofumrih covafbup he vifkanse onoduze het ocaba."
+  },
+  "apiKey": "6769159a2e3d847c617cb6d1808a483bd4337828e8dc637d6b11b4bcf8aa1d83",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
